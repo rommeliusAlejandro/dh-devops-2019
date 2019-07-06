@@ -1,6 +1,6 @@
 function app(){
 	
-	alert('This is the app');
+	console.log('This is the app');
 
 }
 
