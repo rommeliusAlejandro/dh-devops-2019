@@ -8,5 +8,9 @@
 			name: "Rommel",
 			dob:"16/07/1990"
 		},
+		{
+			name: "Laura",
+			dob: "18/11/1992"
+		}
 	]
 }
